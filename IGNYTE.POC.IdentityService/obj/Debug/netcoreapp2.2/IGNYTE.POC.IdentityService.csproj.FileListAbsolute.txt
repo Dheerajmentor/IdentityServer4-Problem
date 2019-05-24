@@ -1,0 +1,93 @@
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.deps.json
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.runtimeconfig.json
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.runtimeconfig.dev.json
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.dll
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.pdb
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.Views.dll
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.Views.pdb
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.csproj.CoreCompileInputs.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorAssemblyInfo.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorAssemblyInfo.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.AssemblyInfoInputs.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.AssemblyInfo.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.TagHelpers.input.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.TagHelpers.output.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorCoreGenerate.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorTargetAssemblyInfo.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorTargetAssemblyInfo.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.Views.pdb
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.dll
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.pdb
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.csproj.CopyComplete
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Account\LoggedOut.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Account\Logout.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Consent\Index.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Device\Success.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Device\UserCodeCapture.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Device\UserCodeConfirmation.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Diagnostics\Index.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Grants\Index.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Redirect.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ScopeListItem.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.csprojAssemblyReference.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.deps.json
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.runtimeconfig.json
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.runtimeconfig.dev.json
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.dll
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.pdb
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.Views.dll
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\bin\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.Views.pdb
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.csprojAssemblyReference.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.csproj.CoreCompileInputs.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorAssemblyInfo.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorAssemblyInfo.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.AssemblyInfoInputs.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.AssemblyInfo.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.TagHelpers.input.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.TagHelpers.output.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorCoreGenerate.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Account\LoggedOut.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Account\Logout.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Consent\Index.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Device\Success.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Device\UserCodeCapture.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Device\UserCodeConfirmation.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Diagnostics\Index.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Grants\Index.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Redirect.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ScopeListItem.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorTargetAssemblyInfo.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.RazorTargetAssemblyInfo.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.Views.pdb
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.dll
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.pdb
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.IdentityService\obj\Debug\netcoreapp2.2\IGNYTE.POC.IdentityService.csproj.CopyComplete

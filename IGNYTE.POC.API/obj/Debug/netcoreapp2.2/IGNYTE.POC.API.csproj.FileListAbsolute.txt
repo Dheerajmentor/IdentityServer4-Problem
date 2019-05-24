@@ -1,0 +1,24 @@
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.deps.json
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.runtimeconfig.json
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.runtimeconfig.dev.json
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.dll
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.csproj.CoreCompileInputs.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.RazorAssemblyInfo.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.RazorAssemblyInfo.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.AssemblyInfoInputs.cache
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.AssemblyInfo.cs
+C:\Users\dheeraj.kumar\OneDrive - Taazaa Tech Pvt Ltd\StudyCore\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.RazorTargetAssemblyInfo.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.deps.json
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.runtimeconfig.json
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.runtimeconfig.dev.json
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.dll
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\IGNYTE.POC.API.pdb
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.csprojAssemblyReference.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.csproj.CoreCompileInputs.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.RazorAssemblyInfo.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.RazorAssemblyInfo.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.AssemblyInfoInputs.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.AssemblyInfo.cs
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.RazorTargetAssemblyInfo.cache
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.dll
+D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\IGNYTE.POC.API.pdb
