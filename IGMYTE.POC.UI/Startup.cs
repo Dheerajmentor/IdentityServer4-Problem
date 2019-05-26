@@ -10,6 +10,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.OpenIdConnect;
+using IdentityModel;
 
 namespace Dheeraj.POC.UI
 {
@@ -25,12 +28,12 @@ namespace Dheeraj.POC.UI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.Configure<CookiePolicyOptions>(options =>
-            {
-                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
-                options.CheckConsentNeeded = context => true;
-                options.MinimumSameSitePolicy = SameSiteMode.None;
-            });
+            //services.Configure<CookiePolicyOptions>(options =>
+            //{
+            //    // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+            //    options.CheckConsentNeeded = context => true;
+            //    options.MinimumSameSitePolicy = SameSiteMode.None;
+            //});
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
@@ -39,12 +42,18 @@ namespace Dheeraj.POC.UI
                 options.DefaultScheme = "Cookies";
                 options.DefaultChallengeScheme = "oidc";
             })
-             .AddCookie("Cookie")
+             .AddCookie("Cookies")
              .AddOpenIdConnect("oidc",options=> {
                  options.Authority = "https://localhost:44398/";
                  options.RequireHttpsMetadata = false;
                  options.ClientId = "mvc";
+                 options.ClientSecret = "secret";
                  options.SaveTokens = true;
+                 options.ResponseType = "code id_token";
+                 options.SignInScheme = "Cookies";
+                 options.Scope.Add("openid");
+                 options.Scope.Add("customAPI.read");
+                 
              });
         }
 
@@ -64,8 +73,8 @@ namespace Dheeraj.POC.UI
             app.UseAuthentication();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-            
-            app.UseCookiePolicy();
+
+           
             
             app.UseMvc(routes =>
             {

@@ -29,11 +29,11 @@ namespace Dheeraj.POC.API
             services.AddMvcCore()
             .AddAuthorization()
             .AddJsonFormatters();
-            services.AddAuthentication("Bearer")
-                .AddJwtBearer("Bearer", options => {
-                    options.Authority = "http://localhost:57748";
-                    options.RequireHttpsMetadata = false;
-                    options.Audience = "customAPI";
+            services.AddAuthentication(IdentityServerAuthenticationDefaults.AuthenticationScheme)
+                .AddIdentityServerAuthentication(options => {
+                    options.Authority = "https://localhost:44398/";
+                    options.ApiName = "customAPI"; // required audience of access tokens
+                    options.RequireHttpsMetadata = false; // dev only!
                 });
 
                 services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
@@ -52,7 +52,7 @@ namespace Dheeraj.POC.API
                 app.UseHsts();
             }
             app.UseAuthentication();
-            //app.UseHttpsRedirection();
+            app.UseHttpsRedirection();
             app.UseMvc();
         }
     }

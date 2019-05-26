@@ -11,3 +11,17 @@ D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.Assemb
 D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.RazorTargetAssemblyInfo.cache
 D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.dll
 D:\IIGNYTE.POC.SEC\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.pdb
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\Dheeraj.POC.API.deps.json
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\Dheeraj.POC.API.runtimeconfig.json
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\Dheeraj.POC.API.runtimeconfig.dev.json
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\Dheeraj.POC.API.dll
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\bin\Debug\netcoreapp2.2\Dheeraj.POC.API.pdb
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.csprojAssemblyReference.cache
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.csproj.CoreCompileInputs.cache
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.RazorAssemblyInfo.cache
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.RazorAssemblyInfo.cs
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.AssemblyInfoInputs.cache
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.AssemblyInfo.cs
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.RazorTargetAssemblyInfo.cache
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.dll
+D:\Test\IS4-IMPLICIT-123\Src\IdentityServer4-Problem\IGNYTE.POC.API\obj\Debug\netcoreapp2.2\Dheeraj.POC.API.pdb

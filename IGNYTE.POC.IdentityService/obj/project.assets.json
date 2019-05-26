@@ -12183,11 +12183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IIGNYTE.POC.SEC\\IGNYTE.POC.IdentityService\\Dheeraj.POC.IdentityService.csproj",
+      "projectUniqueName": "D:\\Test\\IS4-IMPLICIT-123\\Src\\IdentityServer4-Problem\\IGNYTE.POC.IdentityService\\Dheeraj.POC.IdentityService.csproj",
       "projectName": "Dheeraj.POC.IdentityService",
-      "projectPath": "D:\\IIGNYTE.POC.SEC\\IGNYTE.POC.IdentityService\\Dheeraj.POC.IdentityService.csproj",
+      "projectPath": "D:\\Test\\IS4-IMPLICIT-123\\Src\\IdentityServer4-Problem\\IGNYTE.POC.IdentityService\\Dheeraj.POC.IdentityService.csproj",
       "packagesPath": "C:\\Users\\dheeraj.kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\IIGNYTE.POC.SEC\\IGNYTE.POC.IdentityService\\obj\\",
+      "outputPath": "D:\\Test\\IS4-IMPLICIT-123\\Src\\IdentityServer4-Problem\\IGNYTE.POC.IdentityService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

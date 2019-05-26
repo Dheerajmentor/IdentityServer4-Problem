@@ -12,7 +12,7 @@ namespace Dheeraj.POC.IdentityService
 {
     public class APPConfigure
     {
-        public static IEnumerable<Client> GetClients()
+    public static IEnumerable<Client> GetClients()
         {
             return new List<Client>
             {
@@ -49,18 +49,23 @@ namespace Dheeraj.POC.IdentityService
                 {
                     ClientId = "mvc",
                     ClientName = "MVC Client",
-                    AllowedGrantTypes = GrantTypes.Implicit,
+                    AllowedGrantTypes = GrantTypes.Hybrid,
                     AllowedScopes = new List<string>
                     {
                         IdentityServerConstants.StandardScopes.OpenId,
-                        IdentityServerConstants.StandardScopes.Profile
+                        IdentityServerConstants.StandardScopes.Profile,
+                        "customAPI.read"
                     },
+                    ClientSecrets =
+                    {
+                    new Secret("secret".Sha256())
+                    },
+
                     // where to redirect to after login
                     RedirectUris = { "https://localhost:44356/signin-oidc" },
-
                     // where to redirect to after logout
                     PostLogoutRedirectUris = { "https://localhost:44356/signout-callback-oidc" },
-                    RequireConsent = true,
+                    RequireConsent = false,
 
 
                 }
@@ -81,53 +86,53 @@ namespace Dheeraj.POC.IdentityService
         };
         }
 
-        public static IEnumerable<ApiResource> GetAPIResources()
-        {
-            return new List<ApiResource> {
-            new ApiResource {
-                Name = "customAPI",
-                DisplayName = "Custom API",
-                Description = "Custom API Access",
-                UserClaims = new List<string> {"role"},
-                ApiSecrets = new List<Secret> {new Secret("scopeSecret".Sha256())},
-                Scopes = new List<Scope> {
-                    new Scope("customAPI.read"),
-                    new Scope("customAPI.write")
+    public static IEnumerable<ApiResource> GetAPIResources()
+    {
+        return new List<ApiResource> {
+        new ApiResource {
+            Name = "customAPI",
+            DisplayName = "Custom API",
+            Description = "Custom API Access",
+            UserClaims = new List<string> {"role"},
+            ApiSecrets = new List<Secret> {new Secret("scopeSecret".Sha256())},
+            Scopes = new List<Scope> {
+                new Scope("customAPI.read"),
+                new Scope("customAPI.write")
+            }
+        }
+    };
+    }
+
+     public static List<TestUser> GetUsers()
+    {
+        return new List<TestUser> {
+        new TestUser
+            {
+                SubjectId = "1",
+                Username = "alice",
+                Password = "password",
+
+                Claims = new []
+                {
+                    new Claim("name", "Alice"),
+                    new Claim("website", "https://alice.com")
+                }
+            },
+            new TestUser
+            {
+                SubjectId = "2",
+                Username = "bob",
+                Password = "password",
+
+                Claims = new []
+                {
+                    new Claim("name", "Bob"),
+                    new Claim("website", "https://bob.com")
                 }
             }
         };
-        }
-
-        public static List<TestUser> GetUsers()
-        {
-            return new List<TestUser> {
-            new TestUser
-                {
-                    SubjectId = "1",
-                    Username = "alice",
-                    Password = "password",
-
-                    Claims = new []
-                    {
-                        new Claim("name", "Alice"),
-                        new Claim("website", "https://alice.com")
-                    }
-                },
-                new TestUser
-                {
-                    SubjectId = "2",
-                    Username = "bob",
-                    Password = "password",
-
-                    Claims = new []
-                    {
-                        new Claim("name", "Bob"),
-                        new Claim("website", "https://bob.com")
-                    }
-                }
-            };
         
-        }
+    }
     }
 }
 

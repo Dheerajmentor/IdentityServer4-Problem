@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Dheeraj.POC.UI.Models;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authentication;
+using System.Net.Http;
+using IdentityModel.Client;
+using IdentityModel;
 
 namespace Dheeraj.POC.UI.Controllers
 {
@@ -29,9 +33,13 @@ namespace Dheeraj.POC.UI.Controllers
         }
 
         [Authorize]
-        public IActionResult Contact()
+        public async Task<IActionResult> Contact()
         {
-            return View();
+            var accessToken = await AuthenticationHttpContextExtensions.GetTokenAsync(this.HttpContext, "access_token");
+            var client = new HttpClient();
+            client.SetBearerToken(accessToken);
+            var res = await client.GetAsync("https://localhost:44325/api/custom");
+            return Ok(res);
         }
     }
 }
